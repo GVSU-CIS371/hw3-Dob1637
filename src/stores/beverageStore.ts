@@ -12,9 +12,6 @@ import {
   getDocs,
   setDoc,
   doc,
-  QuerySnapshot,
-  QueryDocumentSnapshot,
-  onSnapshot,
   CollectionReference,
 } from "firebase/firestore";
 
